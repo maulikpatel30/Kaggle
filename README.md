@@ -23,6 +23,6 @@
 <li>Decision Tree
 <li>Random Forest
 <li>Support Vector Machine
-
+<li>K-fold Cross Validation
   
-**Accuracy Achieved = 93.00**
+**Accuracy Achieved = 96.00**
